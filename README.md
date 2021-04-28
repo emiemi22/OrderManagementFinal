@@ -1,3 +1,3 @@
 # pt-reflection-example
 
-Demo project for reflection on DB systems
+Profect using reflection on DB systems
