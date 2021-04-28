@@ -1,0 +1,4 @@
+Client with id:1 ordered bere that costs: 2
+Client with id:1 ordered bere that costs: 2
+Client with id:1 ordered bere that costs: 4
+Client with id:1 ordered bere that costs: 4

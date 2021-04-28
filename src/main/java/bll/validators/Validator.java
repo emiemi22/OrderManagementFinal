@@ -1,0 +1,12 @@
+package bll.validators;
+
+/**
+ * @Author: Technical University of Cluj-Napoca, Romania Distributed Systems
+ *          Research Laboratory, http://dsrl.coned.utcluj.ro/
+ * @Since: Apr 03, 2017
+ */
+///Generic type T
+public interface Validator<T> {
+
+	public void validate(T t);
+}
